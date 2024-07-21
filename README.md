@@ -4,9 +4,9 @@
 - Help determine which prize pool is worth buying based on prize per winner
 
 - Issues
-  1. Requires frequent dataset updates(twice per week)
+  1. Requires frequent dataset updates (twice per week)
   2. Certain prize pools are larger/smaller than expected and cannot confirm validity of data analysis due to lack of information
-  3. Yet to do winning numbers prediction (future developments)
+  3. Yet to do winning numbers prediction through other means like machine learning (future developments)
  
 - Dataset
   - obtained from [lottolyzer](https://en.lottolyzer.com/history/singapore/toto)
