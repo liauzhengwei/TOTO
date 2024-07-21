@@ -1,7 +1,6 @@
 # Singapore Pools TOTO Data Analysis
-- Some fun project I decided to do during my free time and to practice Python
 - Showcased the freqency of winning numbers and additional number
-- Help determine which prize pool is worth buying based on prize per winner
+- Help determine which prize pool is worth buying based on jackpot prize per winner
 
 ## Issues
   1. Requires frequent dataset updates (twice per week)
